@@ -1,2 +1,2 @@
-# tabela-despesas🏡
-Tabela de despesas pessoais
+# Tabela-despesas🏡
+Trabalho tabela de despesas pessoais, nessa aula aprendi a trabalhar com tabela no css.
